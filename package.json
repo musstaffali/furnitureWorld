@@ -1,0 +1,27 @@
+{
+  "name": "jamstack-ecommerce-next",
+  "version": "1.0.0",
+  "description": "Jamstack ECommerce Next provides a way to quickly get up and running with a fully configurable ECommerce site using Next.js.",
+  "main": "ecommerce.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Mustafa Mustafa",
+  "license": "ISC",
+  "dependencies": {
+    "@stripe/react-stripe-js": "^1.4.1",
+    "@stripe/stripe-js": "^1.16.0",
+    "autoprefixer": "^10.3.1",
+    "next": "^11.0.1",
+    "postcss": "^8.3.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.2.0",
+    "react-toastify": "^7.0.4",
+    "tailwindcss": "^2.2.4",
+    "uuid": "^8.3.2"
+  }
+}
