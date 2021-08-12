@@ -8,7 +8,7 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
+<!-- You're sections headers will be used to reference location of destination. -->
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -20,12 +20,13 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+A high-fidelity fully-fledged model eCommerce store designed to allow users to buy a variety of furniture online.
+
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Next.js
+- ReactStrap
 
 [Back To The Top](#read-me-template)
 
@@ -35,12 +36,16 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 #### Installation
 
+1. npm i
 
 
-#### API Reference
+2. npm start
+
+
+<!-- #### API Reference
 
 ```html
-    <p>dummy code</p>
+    <p>dummy code</p> -->
 ```
 [Back To The Top](#read-me-template)
 
@@ -55,7 +60,7 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 MIT License
 
-Copyright (c) [2017] [James Q Quick]
+Copyright (c) [2021] [Mustafa Ali Aowd Mustafa]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
