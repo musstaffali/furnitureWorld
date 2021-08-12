@@ -42,15 +42,6 @@ A high-fidelity fully-fledged model eCommerce store designed to allow users to b
 2. npm start
 
 
-```
-[Back To The Top](#read-me-template)
-
----
-
-## References
-[Back To The Top](#read-me-template)
-
----
 
 ## License
 
@@ -76,7 +67,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#read-me-template)
 
 ---
 
@@ -86,4 +76,4 @@ SOFTWARE.
 - Website - [Mustafa Mustafa](https://jamesqquick.com)
 - Linkedin - [Mustafa Mustafa](https://www.linkedin.com/in/mustafa-inc/)
 
-[Back To The Top](#read-me-template)
+
