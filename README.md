@@ -42,10 +42,6 @@ A high-fidelity fully-fledged model eCommerce store designed to allow users to b
 2. npm start
 
 
-<!-- #### API Reference
-
-```html
-    <p>dummy code</p> -->
 ```
 [Back To The Top](#read-me-template)
 
